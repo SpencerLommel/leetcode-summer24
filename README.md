@@ -4,7 +4,7 @@ Welcome to my LeetCode Summer 2024 Challenge repository! This summer, I will be 
 
 ## Daily Challenges
 
-- [ ] **Day 1:** [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] **Day 1:** [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] **Day 2:** [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] **Day 3:** [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] **Day 4:** [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
