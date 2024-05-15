@@ -22,3 +22,8 @@ Feel free to follow along and do a problem with me each day! If you do reach out
 
 - [LinkedIn](https://www.linkedin.com/in/spencer-lommel/)
 - [Discord](https://discord.com/users/932711416140542035): Spencer5949
+
+## Watch my progress
+I record and post most of the LeetCode problems as I solve them check them out below.
+
+- [YouTube](https://www.youtube.com/@SpencerLommel/playlists)
