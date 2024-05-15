@@ -1,5 +1,9 @@
 from typing import List
 
+# This solution involves iterating over the list once and then copying the array without the first value and iterating over it again.
+# Here are my submission stats
+# Runtime 2232ms Beats 9.32% of users with Python3
+# Memory 17.37MB Beats 84.36% of users with Python3
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
