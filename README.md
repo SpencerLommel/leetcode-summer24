@@ -14,6 +14,9 @@ Welcome to my LeetCode Summer 2024 Challenge repository! This summer, I will be 
 - [ ] **Day 8:** [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] **Day 9:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] **Day 10:** [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [ ] **Day 11:** [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] **Day 12:** [148. Sort List](https://leetcode.com/problems/sort-list/)
+- [ ] **Day 13:** [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 
 
