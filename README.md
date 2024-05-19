@@ -9,7 +9,7 @@ Welcome to my LeetCode Summer 2024 Challenge repository! This summer, I will be 
 - [X] **Day 3:** [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [X] **Day 4:** [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [X] **Day 5:** [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] **Day 6:** [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [X] **Day 6:** [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] **Day 7:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] **Day 8:** [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] **Day 9:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
