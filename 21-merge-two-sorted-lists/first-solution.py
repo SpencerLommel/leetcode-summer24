@@ -1,4 +1,7 @@
 # Definition for singly-linked list.
+# Submission Stats
+# Runtime 40ms Beats 45.33% of users with Python3
+# Memory 16.45MB Beats 95.64% of users with Python3
 
 class ListNode:
     def __init__(self, val=0, next=None):
