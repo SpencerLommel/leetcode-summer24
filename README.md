@@ -15,13 +15,14 @@ The problems with the (DC) prefix are the official LC Daily Challenges that I co
 - [X] **Day 6:** [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [X] **Day 7:** [1863. Sum of All Subset XOR Totals (DC)](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [X] **Day 8:** [78. Subsets (DC)](https://leetcode.com/problems/subsets/)
-- [ ] **Day 9:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] **Day 10:** [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] **Day 11:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] **Day 12:** [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-- [ ] **Day 13:** [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] **Day 14:** [148. Sort List](https://leetcode.com/problems/sort-list/)
-- [ ] **Day 15:** [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] **Day 9:** [1608. Special Array With X Elements Greater Than or Equal X (DC)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- [ ] **Day 10:** [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] **Day 11:** [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [ ] **Day 12:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] **Day 13:** [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [ ] **Day 14:** [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] **Day 15:** [148. Sort List](https://leetcode.com/problems/sort-list/)
+- [ ] **Day 16:** [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 
 
